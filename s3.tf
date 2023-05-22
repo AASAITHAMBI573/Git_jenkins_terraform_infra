@@ -1,4 +1,4 @@
 resource "aws_s3_bucket" "aass3" {
-    bucket = "Aasais3" 
+    bucket = "aasais0357" 
     acl = "private"   
 }
